@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sterna Automation Suite]">
+  <test thread-count="5" name="Sterna Automation Tests(failed)">
+    <classes>
+      <class name="com.sterna.automation.ConfigurationTestCasesNegativeScenarios">
+        <methods>
+          <include name="OTPCountField"/>
+          <include name="testTearDown"/>
+          <include name="KeyboxHBDurationTimeField"/>
+          <include name="KeyboxDoorOpenTimeField"/>
+          <include name="KeyReturnTimeField"/>
+          <include name="KeyboxDoorCloseTimeField"/>
+          <include name="inalizeUtils"/>
+          <include name="SwipeOutRepeatCountField"/>
+          <include name="KeyboxhooterEnabledField"/>
+          <include name="RadiusField"/>
+          <include name="TerminalFillingTimeField"/>
+          <include name="SwipeInRepeatCountField"/>
+          <include name="getResult"/>
+          <include name="KeyboxTurnTimeField"/>
+          <include name="VTSOffLineTimeField"/>
+        </methods>
+      </class> <!-- com.sterna.automation.ConfigurationTestCasesNegativeScenarios -->
+      <class name="com.sterna.automation.SternaTestcase">
+        <methods>
+          <include name="testTearDown"/>
+          <include name="KeyboxDoorOpenTimeField"/>
+          <include name="KeyReturnTimeField"/>
+          <include name="KeyboxTurnTimeField"/>
+          <include name="TerminalFillingTimeField"/>
+          <include name="RadiusField"/>
+          <include name="KeyboxhooterEnabledField"/>
+          <include name="getResult"/>
+          <include name="inalizeUtils"/>
+        </methods>
+      </class> <!-- com.sterna.automation.SternaTestcase -->
+    </classes>
+  </test> <!-- Sterna Automation Tests(failed) -->
+</suite> <!-- Failed suite [Sterna Automation Suite] -->

@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+E:\selenium\SternaAutomation\.metadata\.plugins\org.eclipse.jdt.core
+2843679466.index
+314511302.index
+1150460616.index
+1682312945.index
+3267397029.index
+2409562617.index
+3568539966.index
+40992664.index
+869927575.index
+1855388850.index
+2148637874.index
+3756340130.index
+2332102921.index

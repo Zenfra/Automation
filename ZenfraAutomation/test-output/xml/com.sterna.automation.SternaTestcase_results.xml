@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.978">
+  <properties />
+  
+  
+            <testcase name="KeyReturnTimeField" time="4.401" classname="com.sterna.automation.SternaTestcase" />
+                <testcase name="ValidateKeyValidationTimeField" time="6.289" classname="com.sterna.automation.SternaTestcase" />
+                <testcase name="TerminalFillingTimeField" time="4.288" classname="com.sterna.automation.SternaTestcase" />
+      
+</testsuite>

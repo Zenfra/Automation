@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sterna Automation Suite">
+	<test name="Sterna Automation Tests">
+		<classes>
+			<class name="com.sterna.automation.SternaTestcase" />
+			<class
+				name="com.sterna.automation.ConfigurationTestCasesNegativeScenarios" />
+		</classes>
+	</test>
+</suite>
