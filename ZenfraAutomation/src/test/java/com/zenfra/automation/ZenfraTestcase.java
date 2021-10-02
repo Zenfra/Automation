@@ -9,7 +9,7 @@ public class ZenfraTestcase extends TestBase {
 		pageFactoryManager.getLoginPage().loadLoginPage();
 		pageFactoryManager.getLoginPage().enterUsername("prakash.subramanian@virtualtechgurus.com");
 		pageFactoryManager.getLoginPage().enterPassword("Test@123");
-		pageFactoryManager.getLoginPage().clickSignInBtn();
+		pageFactoryManager.getLoginPage().clickSignInBtn(); 
 		
 	}
 	
